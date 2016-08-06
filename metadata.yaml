@@ -1,0 +1,26 @@
+_repo: The-Dawn-of-All_11626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Robert Hugh
+    alias: Benson, R. H. (Robert Hugh)
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '4052'
+    url: http://www.gutenberg.org/2009/agents/4052
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Dawn of All
+url: http://www.gutenberg.org/ebooks/11626
